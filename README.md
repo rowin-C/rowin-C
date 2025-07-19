@@ -1,7 +1,7 @@
 <div className='w-2/3 md:w-1/2 font-mono'>
         <div className='flex flex-col gap-4'>
           <h1 className='text-3xl text-yellow-400 font-bold'>Namaste !</h1>
-                  <h2 className='text-2xl text-yellow-400 font-bold'>(Looking for a job)</h2>
+                  <h2 className='text-2xl text-yellow-400 font-bold'>(Working at aniworks)</h2>
           <p>My name is Saubhagya, and I'm a self-taught developer from India. I began my software development journey in 2020 , in the first year of my collage making simple portfolio pages
             and getting into programming.</p>
           <p>I have worked with many different types of programming languages and technologies, and i like to explore new and upcoming stuff.</p>
