@@ -9,6 +9,6 @@
             In my opinion <span className='bg-blue-600 rounded-md px-2'>Nextjs-React</span> is a very capable architecture that can handle anything from simple web pages to full blown web apps.</p>
           <p>I also like to contribute to open-source projects, It helps me understand how code is structured in different projects.</p>
           <p>
-            My hobbies include making 3D stuff in blender and designing thumbnails for my friend's storytelling youtube channel.
+            My hobbies include cooking and designing thumbnails for my friend's storytelling youtube channel.
           </p>
         </div>
