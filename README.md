@@ -194,22 +194,9 @@ My name is Saubhagya, and I'm a self-taught developer from West Bengal, India. I
 <br/>
 
 <!-- Footer wave -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:bf5fff,50:0a84ff,100:00f5ff&height=120&section=footer)](https://github.com/rowin-C)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000510,40:020d2e,70:041456,100:060a24&height=150&section=footer&text=✦%20%20✧%20%20★%20%20✦%20%20✧%20%20★%20%20✦%20%20✧%20%20★&fontSize=18&fontColor=4a7aaa&fontAlignY=40&desc=rowin-C%20%20·%20%20Software%20Developer%20%20·%20%20Open%20to%20opportunities&descSize=13&descAlignY=68&descColor=1a3a6a)](https://github.com/rowin-C)
 
-⭐ **If you like my work, don't forget to star some repositories!**
 
 </div>
 
 
-
-<!-- ================= HERO ================= -->
-
-
-
----
-
-<!-- ================= FOOTER ================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
