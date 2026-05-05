@@ -141,12 +141,56 @@ My name is Saubhagya, and I'm a self-taught developer from West Bengal, India. I
 
 </div>
 
+---
+
+## 📦 Repositories
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top">
+
+[![AI-pdf-cleaner](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rowin-C&repo=AI-pdf-cleaner-local-LLM&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&icon_color=bf5fff&text_color=a0d8ef&description_lines_count=2)](https://github.com/rowin-C/AI-pdf-cleaner-local-LLM)
+
+</td>
+<td width="50%" valign="top">
+
+[![my-pgp-demo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rowin-C&repo=my-pgp-demo&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&icon_color=bf5fff&text_color=a0d8ef&description_lines_count=2)](https://github.com/rowin-C/my-pgp-demo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Unity_2D_platformer](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rowin-C&repo=Unity_2D_platformer&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&icon_color=bf5fff&text_color=a0d8ef&description_lines_count=2)](https://github.com/rowin-C/Unity_2D_platformer)
+
+</td>
+<td width="50%" valign="top">
+
+[![Machine_learning_Invoicing_system](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=rowin-C&repo=Machine_learning_Invoicing_system&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&icon_color=bf5fff&text_color=a0d8ef&description_lines_count=2)](https://github.com/rowin-C/Machine_learning_Invoicing_system)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-020812?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=020812&color=0a84ff)](https://github.com/rowin-C?tab=repositories)
+
+</div>
+
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rowin-C&theme=react-dark&bg_color=020812&color=00f5ff&line=0a84ff&point=bf5fff&area=true&hide_border=true)](https://github.com/rowin-C)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rowin-C&bg_color=020812&color=8B0000&line=8B0000&point=ff0000&area=true&area_color=8B0000&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://ghchart.rshah.org/8B0000/rowin-C" width="100%" />
+
+
+
+</div>
 
 
 
