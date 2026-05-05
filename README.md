@@ -1,10 +1,23 @@
 <div align="center">
-
-<!-- Animated header via capsule-render -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0a84ff,100:bf5fff&height=220&section=header&text=SAUBHAGYA%20PRASAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20·%20IIITDM%20Kancheepuram&descAlignY=58&descColor=a0d8ef&animation=fadeIn)](https://simple-portfolio-jet-omega.vercel.app)
+  <pre>
+██╗  ██╗██╗                                                                                 
+██║  ██║██║                                                                                 
+███████║██║                                                                                 
+██╔══██║██║                                                                                 
+██║  ██║██║▄█╗                                                                              
+╚═╝  ╚═╝╚═╝╚═╝                                                                              
+                                                                                            
+██╗███╗   ███╗    ███████╗ █████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗  ██████╗██╗   ██╗ █████╗ 
+██║████╗ ████║    ██╔════╝██╔══██╗██║   ██║██╔══██╗██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗
+██║██╔████╔██║    ███████╗███████║██║   ██║██████╔╝███████║███████║██║  ███╗╚████╔╝ ███████║
+██║██║╚██╔╝██║    ╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║   ██║ ╚██╔╝  ██╔══██║
+██║██║ ╚═╝ ██║    ███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║╚██████╔╝  ██║   ██║  ██║
+╚═╝╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝
+                                                                                           
+  </pre>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+turn+ideas+into+reality+through+code+🚀;React+·+Next.js+·+TypeScript+·+Tailwind+CSS;Building+products+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+turn+ideas+into+reality+through+code+🚀;React+·+Next.js+·+TypeScript+·+Tailwind+CSS;AMAZE!+AMAZE!+AMAZE!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,6 +32,7 @@
 
 ---
 
+
 <!-- About + Terminal -->
 <table>
 <tr>
@@ -26,37 +40,80 @@
 
 ## 👾 About Me
 
-```ts
-class Developer {
-  name    = "Saubhagya Prasad";
-  alias   = "rowin-C";
-  role    = "Frontend Developer";
-  stack   = ["React", "Next.js", "TypeScript",
-             "Tailwind CSS", "shadcn/ui"];
-  passion = "Building impactful products";
-  goal    = "Join a great product startup";
-
-  while (alive) {
-    code(); learn(); innovate();
-  }
-}
-// Let's build something amazing! 🚀
+```bash
+rowin-C@github ~ % cat about-me.ts
+ 
+  ┌─────────────────────────────────────────────────────────────┐
+  │                                                             │
+  │   - Info ──────────────────────────────────────────────     │
+  │   . Name:      ............  Saubhagya Prasad               │
+  │   . Alias:     ............  rowin-C                        │
+  │   . Role:      ............  Software Developer @ Aniworks  │
+  │   . Location:  ............  India 🇮🇳                       │
+  │   . Degree:    ............  B.Tech CS, IIITDM Kancheepuram │
+  │                                                             │
+  │   - Stack ──────────────────────────────────────────────    │
+  │   . Frontend:  ............  React, Next.js, TypeScript     │
+  │   . Styling:   ............  Tailwind CSS, shadcn/ui        │
+  │   . Auth:      ............  OAuth 2.0 (Google, Microsoft)  │
+  │   . Tools:     ............  Git, Neovim, WSL2, Vercel      │
+  │                                                             │
+  │   - Hobbies ────────────────────────────────────────────    │
+  │   . Hobbies.Cinema:   ......  Movies & IMAX nerd 🎬         │
+  │   . Hobbies.Space:    ......  Interstellar stuff 🚀         │
+  │   . Hobbies.Creative: ......  Blender, 3D Art, Thumbnails   │
+  │   . Hobbies.Music:    ......  Guitar (Electric & Acoustic)  │
+  │                                                             │
+  │   - GitHub ─────────────────────────────────────────────    │
+  │   . Repos:     .............  35+                           │
+  │   . Status:    .............  Open to opportunities ✦      │
+  │                                                             │
+  └─────────────────────────────────────────────────────────────┘
+ 
+rowin-C@github ~ % _
+` ` `
 ```
-
-Passionate frontend developer who loves building efficient, scalable, and user-friendly web applications. B.Tech CS grad from **IIITDM Kancheepuram** with production experience shipping OAuth 2.0 calendar integrations, secure email, and real-time video features at **Aniworks**.
 
 </td>
 <td width="45%" valign="top">
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rowin-C&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&icon_color=bf5fff&text_color=a0d8ef&border_radius=12)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rowin-C&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&icon_color=bf5fff&text_color=a0d8ef&border_radius=12)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rowin-C&theme=tokyonight&hide_border=true&background=020812&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&border_radius=12)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rowin-C&layout=compact&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&text_color=a0d8ef)](https://github.com/rowin-C)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+My name is Saubhagya, and I'm a self-taught developer from West Bengal, India. I began my software development journey in 2020, in the first year of college making simple portfolio pages and getting into programming. B.Tech CS grad from **IIITDM Kancheepuram** with production experience shipping awesome websites, secure email, and real-time video features at **Aniworks**.
 
 </td>
 </tr>
 </table>
+
+---
+
+
+## 🚀 Live Projects
+
+<div align="center">
+
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 🥇 | **e-Patra** | Next-gen secure email suite with E2E encryption & unlimited storage — built at Aniworks | Next.js · TypeScript · Encryption | [e-patra.com](https://e-patra.com/) |
+| 🥈 | **Portfolio v2** | Personal developer portfolio — clean, fast, and responsive | Next.js · Tailwind · Vercel | [Live ↗](https://portfolio-chi-five-17.vercel.app/) |
+| 🥉 | **Sudobox** | Software dev agency site offering full-stack & digital marketing services | Next.js · React | [Live ↗](https://sudobox.vercel.app/) |
+| 04 | **dotGlobal** | Digital agency landing page — fast, modern, results-driven | Astro · Vercel | [Live ↗](https://dotglobal.vercel.app/) |
+| 05 | **geekTechie.** | Tech blog covering programming, tutorials & developer life | Next.js · Sanity CMS | [Live ↗](https://blog-nextjs-sanity-mauve-nu.vercel.app/) |
+
+</div>
+
+> 🟢 All projects are live and deployed.
 
 ---
 
@@ -84,21 +141,6 @@ Passionate frontend developer who loves building efficient, scalable, and user-f
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **e-Patra** | Secure email service with E2E encryption — built at Aniworks | React · TypeScript · Next.js |
-| **Gapshup Meet** | Real-time video calling with Google & Outlook Calendar OAuth 2.0 | React · WebRTC · OAuth |
-| **Portfolio** | Personal portfolio deployed on Vercel | Next.js · Tailwind · shadcn/ui |
-
-[![View All](https://img.shields.io/badge/⬡_View_All_Repositories-020812?style=for-the-badge&color=0a84ff&logo=github&logoColor=00f5ff)](https://github.com/rowin-C?tab=repositories)
-
-</div>
 
 ---
 
@@ -106,25 +148,7 @@ Passionate frontend developer who loves building efficient, scalable, and user-f
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rowin-C&theme=react-dark&bg_color=020812&color=00f5ff&line=0a84ff&point=bf5fff&area=true&hide_border=true)](https://github.com/rowin-C)
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rowin-C&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/rowin-C)
-
-</div>
-
----
-
-## 💡 Top Languages
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowin-C&layout=compact&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&text_color=a0d8ef)](https://github.com/rowin-C)
-
-</div>
 
 ---
 
