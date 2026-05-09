@@ -83,7 +83,7 @@ rowin-C@github ~ % _
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rowin-C&theme=tokyonight&hide_border=true&background=020812&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&border_radius=12)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rowin-C&layout=compact&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&text_color=a0d8ef)](https://github.com/rowin-C)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rowin-C&layout=compact&theme=tokyonight&hide_border=true&bg_color=020812&title_color=00f5ff&text_color=a0d8ef&hide=tcl)](https://github.com/rowin-C)
 
 </td>
 </tr>
