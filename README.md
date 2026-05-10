@@ -22,8 +22,7 @@
 <br/>
 
 <!-- Social badges -->
-[![Twitter](https://img.shields.io/badge/@rowin__fps-000?style=for-the-badge&logo=x&logoColor=00F5FF)](https://twitter.com/rowin_fps)
-[![GitHub](https://img.shields.io/badge/rowin--C-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/rowin-C)
+[![Instagram](https://img.shields.io/badge/@saubhagya.prasad-000?style=for-the-badge&logo=instagram&logoColor=00F5FF)](https://www.instagram.com/saubhagya.prasad/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a84ff?style=for-the-badge&logo=vercel&logoColor=white)](https://simple-portfolio-jet-omega.vercel.app)
 [![Email](https://img.shields.io/badge/work.sprasad7@gmail.com-bf5fff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sprasad7@gmail.com)
 [![Location](https://img.shields.io/badge/India-00ff88?style=for-the-badge&logo=googlemaps&logoColor=000)](https://en.wikipedia.org/wiki/India)
