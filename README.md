@@ -17,7 +17,7 @@
   </pre>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=React+·+Next.js+·+TypeScript+·+Tailwind+CSS;AMAZE!+AMAZE!+AMAZE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Next.js+·+TypeScript;AMAZE!+AMAZE!+AMAZE!)](https://git.io/typing-svg)
 
 <br/>
 
